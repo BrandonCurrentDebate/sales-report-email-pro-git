@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Report Email Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-01 09:03+0000\n"
+"PO-Revision-Date: 2024-11-14 08:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
+"X-Domain: sales-report-email-pro"
+
+#: include/preview/email-report-content.php:650
+msgid "Active Subscriptions"
+msgstr "Aktive Abonnements"
+
+#: include/customizer/customizer-admin.php:619
+msgid "add comma-separated email addresses"
+msgstr "kommagetrennte E-Mail-Adressen hinzufügen"
+
+#: include/views/asre_reports_tab.php:73
+msgid "Add Report"
+msgstr "Bericht hinzufügen"
+
+#: include/customizer/customizer-admin.php:641
+msgid "Additional content"
+msgstr "Zusätzlicher Inhalt"
+
+#: include/customizer/customizer-admin.php:601
+msgid ""
+"After select date range you can send report manually by send test email "
+"button from bottom of side panel."
+msgstr ""
+"Nachdem Sie den Datumsbereich ausgewählt haben, können Sie den Bericht "
+"manuell senden, indem Sie die Schaltfläche „Test-E-Mail senden“ unten im "
+"Seitenbereich verwenden."
+
+#: include/asre-data-functions.php:508
+msgid "Amount discounted"
+msgstr "Rabattierter Betrag"
+
+#: include/customizer/customizer-admin.php:630
+msgid "Available placeholder: {site_title} "
+msgstr "Verfügbarer Platzhalter: {site_title}"
+
+#: include/customizer/customizer-admin.php:936
+msgid "Average Daily Sales during the report period."
+msgstr "Durchschnittlicher Tagesumsatz während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:949
+msgid "Average Items per order during the report period."
+msgstr ""
+"Durchschnittliche Artikel pro Bestellung während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:923
+msgid "Average Order Value during the report period."
+msgstr "Durchschnittlicher Bestellwert während des Berichtszeitraums."
+
+#: include/preview/email-report-content.php:641
+#: include/customizer/customizer-admin.php:929
+msgid "AVG. Daily Sales"
+msgstr "Durchschn. Tägliche Verkäufe"
+
+#: include/preview/email-report-content.php:645
+#: include/customizer/customizer-admin.php:942
+msgid "AVG. Order Items"
+msgstr "Durchschn. Auftragspositionen"
+
+#: include/preview/email-report-content.php:637
+#: include/customizer/customizer-admin.php:916
+msgid "AVG. Order Value"
+msgstr "Durchschn. Bestellwert"
+
+#: include/asre-data-functions.php:370
+msgid "Category Name"
+msgstr "Kategoriename"
+
+#: include/customizer/customizer-admin.php:1165
+msgid "category name, quantity, amount during the report period."
+msgstr "Kategoriename, Menge, Betrag während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:665
+msgid "Change header image"
+msgstr "Kopfbild ändern"
+
+#: include/asre-data-functions.php:831 include/asre-data-functions.php:893
+msgid "City"
+msgstr "Stadt"
+
+#: include/customizer/customizer-admin.php:1199
+#: include/customizer/customizer-admin.php:1216
+msgid "City, orders count, total amount during the report period."
+msgstr ""
+"Stadt, Anzahl der Bestellungen, Gesamtbetrag während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:713
+msgid "Compare the report totals to previous period."
+msgstr "Vergleichen Sie die Berichtssummen mit der vorherigen Periode."
+
+#: include/customizer/customizer-admin.php:707
+msgid "Compare to the previous period"
+msgstr "Vergleichen Sie mit der Vorperiode"
+
+#: include/asre-data-functions.php:572 include/asre-data-functions.php:638
+msgid "Country"
+msgstr "Land"
+
+#: include/customizer/customizer-admin.php:1267
+#: include/customizer/customizer-admin.php:1284
+msgid "country, orders count, total amount during the report period."
+msgstr ""
+"Land, Anzahl der Bestellungen, Gesamtbetrag während des Berichtszeitraums."
+
+#: include/asre-data-functions.php:506
+msgid "Coupon Code"
+msgstr "Gutscheincode"
+
+#: include/customizer/customizer-admin.php:1182
+msgid ""
+"coupon, quantity used and total discount amount during the report period."
+msgstr ""
+"Coupon, verwendete Menge und Gesamtrabattbetrag während des "
+"Berichtszeitraums."
+
+#: include/asre-data-functions.php:1022 include/asre-data-functions.php:1107
+msgid "Customer Name"
+msgstr "Kundenname"
+
+#: include/customizer/customizer-admin.php:151
+msgid "Customizing"
+msgstr "Customizing"
+
+#: include/customizer/customizer-admin.php:466
+msgid "Daily"
+msgstr "Täglich"
+
+#: include/customizer/customizer-admin.php:467
+msgid "Daily Flex Overnight"
+msgstr "Täglich Flex über Nacht"
+
+#: include/asre-admin.php:1151
+msgid "Data not available."
+msgstr "Daten nicht verfügbar."
+
+#: include/customizer/customizer-admin.php:557
+msgid "Day of Month"
+msgstr "Monatstag"
+
+#: include/customizer/customizer-admin.php:545
+msgid "Day of Week"
+msgstr "Wochentag"
+
+#: include/preview/email-report-content.php:591
+msgid "Discounted Orders"
+msgstr "Rabattierte Bestellungen"
+
+#: include/customizer/customizer-admin.php:655
+msgid "Display Header Image"
+msgstr "Kopfzeilenbild anzeigen"
+
+#: include/preview/email-report-content.php:633
+#: include/customizer/customizer-admin.php:903
+msgid "Downloads"
+msgstr "Downloads"
+
+#: include/asre-data-functions.php:448
+#: include/customizer/customizer-admin.php:1355
+msgid "Downloads details"
+msgstr "Downloaddetails"
+
+#: include/customizer/customizer-admin.php:618
+msgid "Email Recipients"
+msgstr "E-Mail-Empfänger"
+
+#. Name of the plugin
+msgid "Email Reports for WooCommerce"
+msgstr "E-Mail-Berichte für WooCommerce"
+
+#: include/customizer/customizer-admin.php:629
+msgid "Email Subject"
+msgstr "E-Mail Betreff"
+
+#: include/customizer/customizer-admin.php:506
+msgid "Enable email"
+msgstr "E-Mail aktivieren"
+
+#: include/customizer/customizer-admin.php:684
+#: include/customizer/customizer-admin.php:696
+msgid "Enable this option to remove zorem branding in this email."
+msgstr ""
+"Aktivieren Sie diese Option, um das Zorem-Branding in dieser E-Mail zu "
+"entfernen."
+
+#: include/customizer/customizer-admin.php:154
+msgid "Enter Email addresses (comma separated)"
+msgstr "Geben Sie E-Mail-Adressen ein (durch Komma getrennt)"
+
+#: include/asre-data-functions.php:452
+msgid "File name"
+msgstr "Dateiname"
+
+#: include/customizer/customizer-admin.php:570
+msgid "from"
+msgstr "aus"
+
+#. Description of the plugin
+msgid ""
+"Get sales reports from your WooCommerce store directly to your inbox on a "
+"flexible schedule. Schedule multiple reports and use advanced report builder "
+"to customize the report schedule, data and display, compare to the previous "
+"period, show subscriptions data and more.."
+msgstr ""
+"Erhalten Sie Verkaufsberichte aus Ihrem WooCommerce-Shop nach einem "
+"flexiblen Zeitplan direkt in Ihren Posteingang. Planen Sie mehrere Berichte "
+"und verwenden Sie den erweiterten Berichtersteller, um den Berichtszeitplan, "
+"die Daten und die Anzeige anzupassen, mit dem vorherigen Zeitraum zu "
+"vergleichen, Abonnementdaten anzuzeigen und mehr."
+
+#: include/preview/email-report-content.php:579
+#: include/customizer/customizer-admin.php:734
+msgid "Gross Sales"
+msgstr "Bruttoumsatz"
+
+#: include/customizer/customizer-admin.php:678
+msgid "Hide Edit Report Link"
+msgstr "Link „Bericht bearbeiten“ ausblenden"
+
+#: include/customizer/customizer-admin.php:690
+msgid "Hide Powered by zorem Link"
+msgstr "Ausblenden Powered by zorem Link"
+
+#: include/customizer/customizer-admin.php:671
+msgid "image size requirements: 200px/40px."
+msgstr "Anforderungen an die Bildgröße: 200px/40px."
+
+#: include/preview/email-report-content.php:625
+#: include/customizer/customizer-admin.php:877
+msgid "Items Sold"
+msgstr "Artikel verkauft"
+
+#: include/customizer/customizer-admin.php:471
+msgid "Last 30 Days"
+msgstr "Letzte 30 Tage"
+
+#: include/customizer/customizer-admin.php:470
+msgid "Month to Date"
+msgstr "Diesen Monat"
+
+#: include/customizer/customizer-admin.php:469
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: include/preview/email-report-content.php:587
+msgid "Net Discount Amount"
+msgstr "Nettorabattbetrag"
+
+#: include/asre-data-functions.php:247 include/asre-data-functions.php:312
+#: include/asre-data-functions.php:372 include/asre-data-functions.php:574
+#: include/asre-data-functions.php:640 include/asre-data-functions.php:705
+#: include/asre-data-functions.php:771 include/asre-data-functions.php:833
+#: include/asre-data-functions.php:895 include/asre-data-functions.php:956
+#: include/asre-data-functions.php:1023 include/asre-data-functions.php:1205
+#: include/preview/email-report-content.php:617
+#: include/customizer/customizer-admin.php:851
+msgid "Net Sales"
+msgstr "Nettoumsatz"
+
+#: include/preview/email-report-content.php:575
+#: include/customizer/customizer-admin.php:719
+#| msgid "Net sales this month"
+msgid "Net Sales This Month"
+msgstr "Nettoumsatz in diesem Monat"
+
+#: include/preview/email-report-content.php:690
+msgid "Net Subscription Gain"
+msgstr "Nettoabonnementgewinn"
+
+#: include/preview/email-report-content.php:629
+#: include/customizer/customizer-admin.php:890
+msgid "New Customers"
+msgstr "neue Kunden"
+
+#: include/customizer/customizer-admin.php:1349
+msgid "New, Cancelled, Pending Cancellations, etc."
+msgstr "Neue, stornierte, ausstehende Stornierungen usw."
+
+#: include/views/asre_reports_tab.php:50
+msgid "Next Run Date"
+msgstr "Datum des nächsten Laufs"
+
+#: include/customizer/customizer-admin.php:472
+msgid "One time"
+msgstr "Einmal"
+
+#: include/asre-data-functions.php:453
+msgid "Order #"
+msgstr "Befehl #"
+
+#: include/asre-data-functions.php:1021 include/asre-data-functions.php:1106
+msgid "Order id"
+msgstr "Bestellnummer"
+
+#: include/asre-data-functions.php:954
+msgid "Order Status"
+msgstr "Bestellstatus"
+
+#: include/asre-data-functions.php:507 include/asre-data-functions.php:573
+#: include/asre-data-functions.php:639 include/asre-data-functions.php:704
+#: include/asre-data-functions.php:770 include/asre-data-functions.php:832
+#: include/asre-data-functions.php:894 include/asre-data-functions.php:955
+#: include/asre-data-functions.php:1204
+#: include/preview/email-report-content.php:621
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: include/customizer/customizer-admin.php:1329
+msgid "Orders By Payment Method"
+msgstr "Bestellungen nach Zahlungsmethode"
+
+#: include/customizer/customizer-admin.php:1290
+msgid "Orders By Status"
+msgstr "Bestellungen nach Status"
+
+#: include/customizer/customizer-admin.php:1310
+#: include/customizer/customizer-admin.php:1323
+msgid "orders id, customer name, total amount during the report period."
+msgstr "Bestell-ID, Kundenname, Gesamtbetrag während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1297
+msgid "orders Status, order count, total amount during the report period."
+msgstr ""
+"Bestellungen Status, Anzahl der Bestellungen, Gesamtbetrag während des "
+"Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1336
+msgid "payment method, order count, total amount during the report period."
+msgstr ""
+"Zahlungsmethode, Anzahl der Bestellungen, Gesamtbetrag während des "
+"Berichtszeitraums."
+
+#: include/asre-data-functions.php:1203
+msgid "Payment methods"
+msgstr "Zahlungsarten"
+
+#: include/customizer/customizer-admin.php:157
+msgid "Please save the changes to send test email."
+msgstr "Bitte speichern Sie die Änderungen, um eine Test-E-Mail zu senden."
+
+#: include/asre-admin.php:1094
+msgid "Previous Period"
+msgstr "Vorherige Periode"
+
+#: include/asre-data-functions.php:245 include/asre-data-functions.php:310
+msgid "Product Name"
+msgstr "Produktname"
+
+#: include/customizer/customizer-admin.php:1131
+#: include/customizer/customizer-admin.php:1148
+msgid "product name, quantity, amount during the report period."
+msgstr "Produktname, Menge, Betrag während des Berichtszeitraums."
+
+#: include/asre-data-functions.php:451
+msgid "Product title"
+msgstr "Produkttitel"
+
+#: include/asre-data-functions.php:246 include/asre-data-functions.php:311
+#: include/asre-data-functions.php:371
+msgid "Quantity"
+msgstr "Menge"
+
+#: include/preview/email-report-content.php:600
+msgid "Refund number"
+msgstr "Rückerstattungsnummer"
+
+#: include/preview/email-report-content.php:596
+msgid "Refunds"
+msgstr "Rückerstattungen"
+
+#: include/preview/email-report-content.php:666
+#: include/customizer/customizer-admin.php:1007
+msgid "Renewal Revenue"
+msgstr "Verlängerungsumsatz"
+
+#: include/customizer/customizer-admin.php:1303
+msgid "Report By Order details"
+msgstr "Bericht nach Auftragsdetails"
+
+#: include/asre-data-functions.php:1030
+msgid "Report by Order details"
+msgstr "Bericht nach Bestelldetails"
+
+#: include/customizer/customizer-admin.php:1316
+msgid "Report By Refund details"
+msgstr "Bericht nach Rückerstattungsdetails"
+
+#: include/asre-data-functions.php:1114
+msgid "Report by Refund Order details"
+msgstr "Bericht nach Rückerstattungsauftragsdetails"
+
+#: include/preview/email-report-content.php:432
+msgid "Report dates"
+msgstr "Berichtstermine"
+
+#: include/customizer/customizer-admin.php:483
+msgid "Report Design"
+msgstr "Berichtsdesign"
+
+#: include/customizer/customizer-admin.php:491
+msgid "Report Details"
+msgstr "Berichtsdetails"
+
+#: include/customizer/customizer-admin.php:521
+msgid "Report Name"
+msgstr "Berichtsname"
+
+#: include/customizer/customizer-admin.php:479
+msgid "Report Settings"
+msgstr "Berichtseinstellungen"
+
+#: include/customizer/customizer-admin.php:487
+msgid "Report Totals"
+msgstr "Summen melden"
+
+#: include/customizer/customizer-admin.php:533
+msgid "Report Type"
+msgstr "Berichtstyp"
+
+#: include/preview/email-report-content.php:682
+#: include/customizer/customizer-admin.php:1059
+msgid "Resubscribe Revenue"
+msgstr "Einnahmen erneut abonnieren"
+
+#: include/views/asre_reports_tab.php:43
+msgid "Run"
+msgstr "Laufen"
+
+#: include/asre-data-functions.php:829
+#: include/customizer/customizer-admin.php:1188
+msgid "Sales By Billing City"
+msgstr "Verkäufe nach Abrechnungsstadt"
+
+#: include/asre-data-functions.php:569
+#: include/customizer/customizer-admin.php:1256
+msgid "Sales By Billing Country"
+msgstr "Verkäufe nach Rechnungsland"
+
+#: include/asre-data-functions.php:701
+#: include/customizer/customizer-admin.php:1222
+msgid "Sales By Billing State"
+msgstr "Verkäufe nach Rechnungsstaat"
+
+#: include/asre-data-functions.php:503
+#: include/customizer/customizer-admin.php:1171
+msgid "Sales By Coupons"
+msgstr "Verkauf durch Gutscheine"
+
+#: include/asre-data-functions.php:952
+msgid "Sales By Order Status"
+msgstr "Verkäufe nach Auftragsstatus"
+
+#: include/asre-data-functions.php:1201
+msgid "Sales By Payment Method"
+msgstr "Verkäufe nach Zahlungsmethode"
+
+#: include/asre-data-functions.php:891
+#: include/customizer/customizer-admin.php:1205
+msgid "Sales By Shipping City"
+msgstr "Verkäufe nach Lieferstadt"
+
+#: include/asre-data-functions.php:635
+#: include/customizer/customizer-admin.php:1273
+msgid "Sales By Shipping Country"
+msgstr "Verkäufe nach Lieferland"
+
+#: include/asre-data-functions.php:767
+#: include/customizer/customizer-admin.php:1239
+msgid "Sales By Shipping State"
+msgstr "Verkäufe nach Versandstaat"
+
+#: include/customizer/customizer-admin.php:526
+#: include/customizer/customizer-admin.php:527
+msgid "Sales Report"
+msgstr "Verkaufsbericht"
+
+#: include/customizer/customizer-admin.php:636
+msgid "Sales Report for {site_title}"
+msgstr "Verkaufsbericht für {site_title}"
+
+#: include/customizer/customizer-admin.php:149
+msgid "Save"
+msgstr "Speichern"
+
+#: include/customizer/customizer-admin.php:594
+msgid "Select a date range"
+msgstr "Wählen Sie einen Datumsbereich aus"
+
+#: include/customizer/customizer-admin.php:155
+msgid "Send"
+msgstr "Schicken"
+
+#: include/customizer/customizer-admin.php:153
+msgid "Send a test email"
+msgstr "Senden Sie eine Test-E-Mail"
+
+#: include/customizer/customizer-admin.php:607
+msgid "Send Report At"
+msgstr "Bericht senden an"
+
+#: include/customizer/customizer-admin.php:152
+msgid "Send Test Email"
+msgstr "Test-E-Mail senden"
+
+#: include/customizer/customizer-admin.php:156
+msgid "Settings Successfully Saved."
+msgstr "Einstellungen erfolgreich gespeichert."
+
+#: include/preview/email-report-content.php:613
+msgid "Shipping"
+msgstr "Versand"
+
+#: include/preview/email-report-content.php:608
+msgid "Shipping Tax"
+msgstr "Versandkosten"
+
+#: include/preview/email-report-content.php:658
+#: include/customizer/customizer-admin.php:981
+msgid "Signup Revenue"
+msgstr "Anmeldeeinnahmen"
+
+#: include/asre-data-functions.php:703 include/asre-data-functions.php:769
+msgid "State"
+msgstr "Zustand"
+
+#: include/customizer/customizer-admin.php:1233
+#: include/customizer/customizer-admin.php:1250
+msgid "State, orders count, total amount during the report period."
+msgstr ""
+"Staat, Anzahl der Bestellungen, Gesamtbetrag während des Berichtszeitraums."
+
+#: include/preview/email-report-content.php:686
+msgid "Subscription Cancellation"
+msgstr "Kündigung des Abonnements"
+
+#: include/customizer/customizer-admin.php:1072
+msgid "Subscription Cancellations"
+msgstr "Abonnement-Kündigungen"
+
+#: include/preview/email-report-content.php:662
+msgid "Subscription Renewal"
+msgstr "Abonnementverlängerung"
+
+#: include/preview/email-report-content.php:678
+msgid "Subscription Resubscribe"
+msgstr "Abonnement Erneut abonnieren"
+
+#: include/preview/email-report-content.php:670
+msgid "Subscription Switch"
+msgstr "Abo-Wechsel"
+
+#: include/customizer/customizer-admin.php:1342
+msgid "Subscriptions By Status (Total)"
+msgstr "Abonnements nach Status (Gesamt)"
+
+#: include/preview/email-report-content.php:654
+msgid "Subscriptions signups"
+msgstr "Abonnementanmeldungen"
+
+#: include/customizer/customizer-admin.php:754
+msgid "sum of all orders including shipping & taxes with refunds taken off."
+msgstr ""
+"Summe aller Bestellungen inklusive Versand & Steuern mit abgezogenen "
+"Rückerstattungen."
+
+#: include/customizer/customizer-admin.php:728
+#: include/customizer/customizer-admin.php:741
+msgid ""
+"sum of all orders not including shipping & taxes with refunds taken off."
+msgstr ""
+"Summe aller Bestellungen ohne Versand und Steuern mit abgezogenen "
+"Rückerstattungen."
+
+#: include/customizer/customizer-admin.php:858
+msgid "sum of all orders, with refunds, shipping & taxes taken off."
+msgstr ""
+"Summe aller Bestellungen, mit Abzug von Rückerstattungen, Versand und "
+"Steuern."
+
+#: include/preview/email-report-content.php:674
+#: include/customizer/customizer-admin.php:1033
+msgid "Switch Revenue"
+msgstr "Umsatz wechseln"
+
+#: include/preview/email-report-content.php:605
+msgid "Taxes"
+msgstr "Steuern"
+
+#: include/customizer/customizer-admin.php:564
+msgid "the day on the month to send the report email."
+msgstr "der Tag im Monat, an dem die Berichts-E-Mail gesendet wird."
+
+#: include/customizer/customizer-admin.php:1092
+msgid "The net subscription gain during the report period."
+msgstr "Der Nettozeichnungsgewinn während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:582
+msgid "to"
+msgstr "zu"
+
+#: include/asre-data-functions.php:367
+#: include/customizer/customizer-admin.php:1154
+msgid "Top Selling Categories"
+msgstr "Meistverkaufte Kategorien"
+
+#: include/asre-data-functions.php:307
+msgid "Top Selling Product Variations"
+msgstr "Meistverkaufte Produktvarianten"
+
+#: include/asre-data-functions.php:253
+#: include/customizer/customizer-admin.php:1120
+msgid "Top Selling Products"
+msgstr "Meistverkaufte Produkte"
+
+#: include/customizer/customizer-admin.php:1137
+msgid "Top Selling Variations"
+msgstr "Meistverkaufte Variationen"
+
+#: include/asre-admin.php:1089
+msgid "total active subscribers"
+msgstr "insgesamt aktive Abonnenten"
+
+#: include/customizer/customizer-admin.php:910
+msgid "Total count of downloaded files during the report period."
+msgstr ""
+"Gesamtzahl der heruntergeladenen Dateien während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:871
+msgid "Total count of orders in status Processing/Complete."
+msgstr "Gesamtzahl der Bestellungen im Status In Bearbeitung/Abgeschlossen."
+
+#: include/customizer/customizer-admin.php:780
+msgid "Total discounts orders with coupons."
+msgstr "Gesamtrabatte Bestellungen mit Coupons."
+
+#: include/customizer/customizer-admin.php:767
+msgid "Total discounts with coupons."
+msgstr "Gesamtrabatte mit Coupons."
+
+#: include/customizer/customizer-admin.php:884
+msgid "Total items sold during the report period."
+msgstr "Gesamtzahl der während des Berichtszeitraums verkauften Artikel."
+
+#: include/customizer/customizer-admin.php:962
+msgid "Total number of active subscriptions during the report period."
+msgstr "Gesamtzahl der aktiven Abonnements während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:897
+msgid "Total number of new signups during the report period."
+msgstr "Gesamtzahl der Neuanmeldungen während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1079
+msgid "Total number of subscriptions cancellations during the report period."
+msgstr "Gesamtzahl der Abonnementkündigungen während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1001
+msgid "Total number of subscriptions renewal during the report period."
+msgstr ""
+"Gesamtzahl der Verlängerungen von Abonnements während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1053
+msgid "Total number of subscriptions resubscribe during the report period."
+msgstr ""
+"Gesamtzahl der während des Berichtszeitraums neu abonnierten Abonnements."
+
+#: include/customizer/customizer-admin.php:975
+msgid "Total number of subscriptions signups during the report period."
+msgstr ""
+"Gesamtzahl der Abonnementregistrierungen während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1027
+msgid "Total number of subscriptions switch during the report period."
+msgstr "Gesamtzahl der Abonnementwechsel während des Berichtszeitraums."
+
+#: include/asre-data-functions.php:1108
+msgid "Total Refund"
+msgstr "Gesamtrückerstattung"
+
+#: include/customizer/customizer-admin.php:793
+#: include/customizer/customizer-admin.php:806
+msgid "Total Refunds during the report period."
+msgstr "Gesamtrückerstattungen während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1014
+msgid "Total renewal revenue during the report period."
+msgstr "Gesamtumsatz aus Verlängerungen während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1066
+msgid "Total resubscribe revenue during the report period."
+msgstr "Gesamtumsatz durch erneutes Abonnieren während des Berichtszeitraums."
+
+#: include/asre-data-functions.php:1024 include/asre-data-functions.php:1206
+#: include/preview/email-report-content.php:583
+#: include/customizer/customizer-admin.php:747
+msgid "Total Sales"
+msgstr "Gesamtumsatz"
+
+#: include/customizer/customizer-admin.php:832
+msgid "Total shipping charges during the report period."
+msgstr "Gesamte Versandkosten während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:845
+msgid "Total shipping tax charges during the report period."
+msgstr "Gesamte Versandsteuergebühren während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:988
+msgid "Total signup revenue during the report period."
+msgstr "Gesamter Registrierungsumsatz während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:1040
+msgid "Total switch revenue during the report period."
+msgstr "Gesamter Switch-Umsatz während des Berichtszeitraums."
+
+#: include/customizer/customizer-admin.php:819
+msgid "Total tax(Order Tax + Shipping Tax) charges during the report period."
+msgstr ""
+"Gesamtsteuer (Bestellsteuer + Versandsteuer) während des Berichtszeitraums."
+
+#: include/asre-admin.php:1161
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: include/asre-admin.php:1123
+msgid "Unknown Title"
+msgstr "Unbekannter Titel"
+
+#: include/asre-data-functions.php:454
+msgid "Username"
+msgstr "Benutzername"
+
+#: include/asre-admin.php:1127
+msgid "View all"
+msgstr "Alle ansehen"
+
+#: include/customizer/customizer-admin.php:468
+msgid "Weekly"
+msgstr "Wöchentlich"
+
+#: include/customizer/customizer-admin.php:150
+msgid "You are customizing"
+msgstr "Sie passen an"

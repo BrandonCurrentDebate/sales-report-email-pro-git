@@ -1,0 +1,49 @@
+a.pro,
+.tgl-flat:checked+.tgl-btn:after {
+    background: #e05b49 !important;
+}
+
+.zoremmail-panel-title:hover .dashicons,
+.zoremmail-sub-panel-title:hover .dashicons,
+.wordpress-to-back:hover a.zoremmail-back-wordpress-link {
+    color: #e05b49 !important;
+}
+
+.wp-core-ui .send-test-email,
+.wp-core-ui .send-test-email:focus,
+.wp-core-ui .send-test-email:hover,
+
+.wp-core-ui .efc-btn.efc-save,
+.wp-core-ui .efc-btn.efc-save:focus,
+.wp-core-ui .efc-btn.efc-save:hover {
+    background: #e05b49 !important;
+    border-color: #e05b49 !important;
+}
+
+.customize-section-back:focus,
+.customize-section-back:hover {
+    background: #e05b49 !important;
+    border-left: 4px solid #e05b49 !important;
+}
+
+.zoremmail-panel-title:hover,
+.zoremmail-sub-panel-title:hover {
+    border-left: 4px solid #e05b49 !important;
+}
+
+.wordpress-to-back:hover {
+    border-top: 4px solid #e05b49 !important;
+}
+
+.media .selected-media {
+    margin: 10px 0;
+    width: auto !important;
+    max-height: 40px !important;
+    display: block !important;
+}
+.branding_header_logo_hide {
+    display: none;
+}
+.branding_header_logo {
+    display: block;
+}
