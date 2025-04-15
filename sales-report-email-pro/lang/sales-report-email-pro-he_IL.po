@@ -1,0 +1,729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Report Email Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-01 09:03+0000\n"
+"PO-Revision-Date: 2024-11-14 08:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
+"X-Domain: sales-report-email-pro"
+
+#: include/preview/email-report-content.php:650
+msgid "Active Subscriptions"
+msgstr "מנויים פעילים"
+
+#: include/customizer/customizer-admin.php:619
+msgid "add comma-separated email addresses"
+msgstr "הוסף כתובות דוא\"ל מופרדות בפסיקים"
+
+#: include/views/asre_reports_tab.php:73
+msgid "Add Report"
+msgstr "הוסף דוח"
+
+#: include/customizer/customizer-admin.php:641
+msgid "Additional content"
+msgstr "תוכן נוסף"
+
+#: include/customizer/customizer-admin.php:601
+msgid ""
+"After select date range you can send report manually by send test email "
+"button from bottom of side panel."
+msgstr ""
+"לאחר בחירת טווח תאריכים, תוכל לשלוח דוח באופן ידני על ידי כפתור שלח דוא\"ל "
+"בדיקה מהחלק התחתון של הלוח הצדדי."
+
+#: include/asre-data-functions.php:508
+msgid "Amount discounted"
+msgstr "סכום בהנחה"
+
+#: include/customizer/customizer-admin.php:630
+msgid "Available placeholder: {site_title} "
+msgstr "מציין מיקום זמין: {site_title}"
+
+#: include/customizer/customizer-admin.php:936
+msgid "Average Daily Sales during the report period."
+msgstr "מכירות יומיות ממוצעות בתקופת הדוח."
+
+#: include/customizer/customizer-admin.php:949
+msgid "Average Items per order during the report period."
+msgstr "ממוצע פריטים להזמנה במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:923
+msgid "Average Order Value during the report period."
+msgstr "ערך הזמנה ממוצע במהלך תקופת הדוח."
+
+#: include/preview/email-report-content.php:641
+#: include/customizer/customizer-admin.php:929
+msgid "AVG. Daily Sales"
+msgstr "AVG. מכירות יומיות"
+
+#: include/preview/email-report-content.php:645
+#: include/customizer/customizer-admin.php:942
+msgid "AVG. Order Items"
+msgstr "AVG. הזמנת פריטים"
+
+#: include/preview/email-report-content.php:637
+#: include/customizer/customizer-admin.php:916
+msgid "AVG. Order Value"
+msgstr "AVG. ערך ההזמנה"
+
+#: include/asre-data-functions.php:370
+msgid "Category Name"
+msgstr "שם הקטגוריה"
+
+#: include/customizer/customizer-admin.php:1165
+msgid "category name, quantity, amount during the report period."
+msgstr "שם קטגוריה, כמות, כמות במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:665
+msgid "Change header image"
+msgstr "שנה את תמונת הכותרת"
+
+#: include/asre-data-functions.php:831 include/asre-data-functions.php:893
+msgid "City"
+msgstr "עִיר"
+
+#: include/customizer/customizer-admin.php:1199
+#: include/customizer/customizer-admin.php:1216
+msgid "City, orders count, total amount during the report period."
+msgstr "עיר, ספירת הזמנות, סכום כולל בתקופת הדוח."
+
+#: include/customizer/customizer-admin.php:713
+msgid "Compare the report totals to previous period."
+msgstr "השווה את סיכומי הדוח לתקופה הקודמת."
+
+#: include/customizer/customizer-admin.php:707
+msgid "Compare to the previous period"
+msgstr "השוו לתקופה הקודמת"
+
+#: include/asre-data-functions.php:572 include/asre-data-functions.php:638
+msgid "Country"
+msgstr "מְדִינָה"
+
+#: include/customizer/customizer-admin.php:1267
+#: include/customizer/customizer-admin.php:1284
+msgid "country, orders count, total amount during the report period."
+msgstr "מדינה, ספירת הזמנות, סכום כולל במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:506
+msgid "Coupon Code"
+msgstr "קוד קופון"
+
+#: include/customizer/customizer-admin.php:1182
+msgid ""
+"coupon, quantity used and total discount amount during the report period."
+msgstr "קופון, כמות בשימוש וסכום ההנחה הכולל במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:1022 include/asre-data-functions.php:1107
+msgid "Customer Name"
+msgstr "שם הלקוח"
+
+#: include/customizer/customizer-admin.php:151
+msgid "Customizing"
+msgstr "התאמה אישית"
+
+#: include/customizer/customizer-admin.php:466
+msgid "Daily"
+msgstr "יום יומי"
+
+#: include/customizer/customizer-admin.php:467
+msgid "Daily Flex Overnight"
+msgstr "Flex יומי ללילה"
+
+#: include/asre-admin.php:1151
+msgid "Data not available."
+msgstr "נתונים לא זמינים."
+
+#: include/customizer/customizer-admin.php:557
+msgid "Day of Month"
+msgstr "יום בחודש"
+
+#: include/customizer/customizer-admin.php:545
+msgid "Day of Week"
+msgstr "יום בשבוע"
+
+#: include/preview/email-report-content.php:591
+msgid "Discounted Orders"
+msgstr "הזמנות מוזלות"
+
+#: include/customizer/customizer-admin.php:655
+msgid "Display Header Image"
+msgstr "הצג תמונת כותרת"
+
+#: include/preview/email-report-content.php:633
+#: include/customizer/customizer-admin.php:903
+msgid "Downloads"
+msgstr "הורדות"
+
+#: include/asre-data-functions.php:448
+#: include/customizer/customizer-admin.php:1355
+msgid "Downloads details"
+msgstr "הורדות פרטים"
+
+#: include/customizer/customizer-admin.php:618
+msgid "Email Recipients"
+msgstr "נמעני אימייל"
+
+#. Name of the plugin
+msgid "Email Reports for WooCommerce"
+msgstr "דוחות דוא\"ל עבור WooCommerce"
+
+#: include/customizer/customizer-admin.php:629
+msgid "Email Subject"
+msgstr "נושא האימייל"
+
+#: include/customizer/customizer-admin.php:506
+msgid "Enable email"
+msgstr "אפשר אימייל"
+
+#: include/customizer/customizer-admin.php:684
+#: include/customizer/customizer-admin.php:696
+msgid "Enable this option to remove zorem branding in this email."
+msgstr "אפשר אפשרות זו כדי להסיר מיתוג zorem בדוא\"ל זה."
+
+#: include/customizer/customizer-admin.php:154
+msgid "Enter Email addresses (comma separated)"
+msgstr "הזן כתובות אימייל (מופרדות בפסיק)"
+
+#: include/asre-data-functions.php:452
+msgid "File name"
+msgstr "שם הקובץ"
+
+#: include/customizer/customizer-admin.php:570
+msgid "from"
+msgstr "מ"
+
+#. Description of the plugin
+msgid ""
+"Get sales reports from your WooCommerce store directly to your inbox on a "
+"flexible schedule. Schedule multiple reports and use advanced report builder "
+"to customize the report schedule, data and display, compare to the previous "
+"period, show subscriptions data and more.."
+msgstr ""
+"קבל דוחות מכירות מחנות WooCommerce שלך ישירות לתיבת הדואר הנכנס שלך בלוח "
+"זמנים גמיש. תזמן מספר דוחות והשתמש בבונה דוחות מתקדם כדי להתאים אישית את לוח "
+"הזמנים של הדוחות, הנתונים והתצוגה, השוואה לתקופה הקודמת, להציג נתוני מנויים "
+"ועוד."
+
+#: include/preview/email-report-content.php:579
+#: include/customizer/customizer-admin.php:734
+msgid "Gross Sales"
+msgstr "מכירות ברוטו"
+
+#: include/customizer/customizer-admin.php:678
+msgid "Hide Edit Report Link"
+msgstr "הסתר קישור ערוך דוח"
+
+#: include/customizer/customizer-admin.php:690
+msgid "Hide Powered by zorem Link"
+msgstr "הסתר מופעל על ידי zorem קישור"
+
+#: include/customizer/customizer-admin.php:671
+msgid "image size requirements: 200px/40px."
+msgstr "דרישות גודל תמונה: 200px/40px."
+
+#: include/preview/email-report-content.php:625
+#: include/customizer/customizer-admin.php:877
+msgid "Items Sold"
+msgstr "פריטים שנמכרו"
+
+#: include/customizer/customizer-admin.php:471
+msgid "Last 30 Days"
+msgstr "30 הימים האחרונים"
+
+#: include/customizer/customizer-admin.php:470
+msgid "Month to Date"
+msgstr "חודש עד תאריך"
+
+#: include/customizer/customizer-admin.php:469
+msgid "Monthly"
+msgstr "יַרחוֹן"
+
+#: include/preview/email-report-content.php:587
+msgid "Net Discount Amount"
+msgstr "סכום הנחה נטו"
+
+#: include/asre-data-functions.php:247 include/asre-data-functions.php:312
+#: include/asre-data-functions.php:372 include/asre-data-functions.php:574
+#: include/asre-data-functions.php:640 include/asre-data-functions.php:705
+#: include/asre-data-functions.php:771 include/asre-data-functions.php:833
+#: include/asre-data-functions.php:895 include/asre-data-functions.php:956
+#: include/asre-data-functions.php:1023 include/asre-data-functions.php:1205
+#: include/preview/email-report-content.php:617
+#: include/customizer/customizer-admin.php:851
+msgid "Net Sales"
+msgstr "מכירות רשת"
+
+#: include/preview/email-report-content.php:575
+#: include/customizer/customizer-admin.php:719
+#| msgid "Net sales this month"
+msgid "Net Sales This Month"
+msgstr "מכירות נטו החודש"
+
+#: include/preview/email-report-content.php:690
+msgid "Net Subscription Gain"
+msgstr "רווח מנוי נטו"
+
+#: include/preview/email-report-content.php:629
+#: include/customizer/customizer-admin.php:890
+msgid "New Customers"
+msgstr "לקוחות חדשים"
+
+#: include/customizer/customizer-admin.php:1349
+msgid "New, Cancelled, Pending Cancellations, etc."
+msgstr "ביטולים חדשים, מבוטלים, ממתינים וכו'."
+
+#: include/views/asre_reports_tab.php:50
+msgid "Next Run Date"
+msgstr "תאריך הריצה הבא"
+
+#: include/customizer/customizer-admin.php:472
+msgid "One time"
+msgstr "פעם אחת"
+
+#: include/asre-data-functions.php:453
+msgid "Order #"
+msgstr "הזמנה מס'"
+
+#: include/asre-data-functions.php:1021 include/asre-data-functions.php:1106
+msgid "Order id"
+msgstr "מזהה הזמנה"
+
+#: include/asre-data-functions.php:954
+msgid "Order Status"
+msgstr "סטטוס הזמנה"
+
+#: include/asre-data-functions.php:507 include/asre-data-functions.php:573
+#: include/asre-data-functions.php:639 include/asre-data-functions.php:704
+#: include/asre-data-functions.php:770 include/asre-data-functions.php:832
+#: include/asre-data-functions.php:894 include/asre-data-functions.php:955
+#: include/asre-data-functions.php:1204
+#: include/preview/email-report-content.php:621
+msgid "Orders"
+msgstr "הזמנות"
+
+#: include/customizer/customizer-admin.php:1329
+msgid "Orders By Payment Method"
+msgstr "הזמנות לפי שיטת תשלום"
+
+#: include/customizer/customizer-admin.php:1290
+msgid "Orders By Status"
+msgstr "הזמנות לפי סטטוס"
+
+#: include/customizer/customizer-admin.php:1310
+#: include/customizer/customizer-admin.php:1323
+msgid "orders id, customer name, total amount during the report period."
+msgstr "מזהה הזמנות, שם לקוח, סכום כולל במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1297
+msgid "orders Status, order count, total amount during the report period."
+msgstr "סטטוס הזמנות, ספירת הזמנות, סכום כולל במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1336
+msgid "payment method, order count, total amount during the report period."
+msgstr "אמצעי תשלום, ספירת הזמנות, סכום כולל במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:1203
+msgid "Payment methods"
+msgstr "דרכי תשלום"
+
+#: include/customizer/customizer-admin.php:157
+msgid "Please save the changes to send test email."
+msgstr "נא לשמור את השינויים כדי לשלוח דוא\"ל לבדיקה."
+
+#: include/asre-admin.php:1094
+msgid "Previous Period"
+msgstr "תקופה קודמת"
+
+#: include/asre-data-functions.php:245 include/asre-data-functions.php:310
+msgid "Product Name"
+msgstr "שם המוצר"
+
+#: include/customizer/customizer-admin.php:1131
+#: include/customizer/customizer-admin.php:1148
+msgid "product name, quantity, amount during the report period."
+msgstr "שם המוצר, כמות, כמות במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:451
+msgid "Product title"
+msgstr "כותרת המוצר"
+
+#: include/asre-data-functions.php:246 include/asre-data-functions.php:311
+#: include/asre-data-functions.php:371
+msgid "Quantity"
+msgstr "כַּמוּת"
+
+#: include/preview/email-report-content.php:600
+msgid "Refund number"
+msgstr "מספר החזר"
+
+#: include/preview/email-report-content.php:596
+msgid "Refunds"
+msgstr "החזרים"
+
+#: include/preview/email-report-content.php:666
+#: include/customizer/customizer-admin.php:1007
+msgid "Renewal Revenue"
+msgstr "הכנסות מחידוש"
+
+#: include/customizer/customizer-admin.php:1303
+msgid "Report By Order details"
+msgstr "פרטי דיווח לפי הזמנה"
+
+#: include/asre-data-functions.php:1030
+msgid "Report by Order details"
+msgstr "דיווח לפי פרטי הזמנה"
+
+#: include/customizer/customizer-admin.php:1316
+msgid "Report By Refund details"
+msgstr "פרטי דיווח לפי החזר"
+
+#: include/asre-data-functions.php:1114
+msgid "Report by Refund Order details"
+msgstr "דיווח לפי פרטי הזמנת החזר"
+
+#: include/preview/email-report-content.php:432
+msgid "Report dates"
+msgstr "תאריכי דיווח"
+
+#: include/customizer/customizer-admin.php:483
+msgid "Report Design"
+msgstr "עיצוב דוחות"
+
+#: include/customizer/customizer-admin.php:491
+msgid "Report Details"
+msgstr "פרטי דוח"
+
+#: include/customizer/customizer-admin.php:521
+msgid "Report Name"
+msgstr "שם הדוח"
+
+#: include/customizer/customizer-admin.php:479
+msgid "Report Settings"
+msgstr "הגדרות דיווח"
+
+#: include/customizer/customizer-admin.php:487
+msgid "Report Totals"
+msgstr "דיווח סיכומים"
+
+#: include/customizer/customizer-admin.php:533
+msgid "Report Type"
+msgstr "סוג דוח"
+
+#: include/preview/email-report-content.php:682
+#: include/customizer/customizer-admin.php:1059
+msgid "Resubscribe Revenue"
+msgstr "הירשם מחדש להכנסות"
+
+#: include/views/asre_reports_tab.php:43
+msgid "Run"
+msgstr "לָרוּץ"
+
+#: include/asre-data-functions.php:829
+#: include/customizer/customizer-admin.php:1188
+msgid "Sales By Billing City"
+msgstr "מכירות לפי בילינג סיטי"
+
+#: include/asre-data-functions.php:569
+#: include/customizer/customizer-admin.php:1256
+msgid "Sales By Billing Country"
+msgstr "מכירות לפי ארץ חיוב"
+
+#: include/asre-data-functions.php:701
+#: include/customizer/customizer-admin.php:1222
+msgid "Sales By Billing State"
+msgstr "מכירות לפי מדינת חיוב"
+
+#: include/asre-data-functions.php:503
+#: include/customizer/customizer-admin.php:1171
+msgid "Sales By Coupons"
+msgstr "מכירות לפי קופונים"
+
+#: include/asre-data-functions.php:952
+msgid "Sales By Order Status"
+msgstr "מכירות לפי סטטוס הזמנה"
+
+#: include/asre-data-functions.php:1201
+msgid "Sales By Payment Method"
+msgstr "מכירה לפי שיטת תשלום"
+
+#: include/asre-data-functions.php:891
+#: include/customizer/customizer-admin.php:1205
+msgid "Sales By Shipping City"
+msgstr "מכירות על ידי ספנות עיר"
+
+#: include/asre-data-functions.php:635
+#: include/customizer/customizer-admin.php:1273
+msgid "Sales By Shipping Country"
+msgstr "מכירות לפי ארץ משלוח"
+
+#: include/asre-data-functions.php:767
+#: include/customizer/customizer-admin.php:1239
+msgid "Sales By Shipping State"
+msgstr "מכירות לפי מדינת משלוח"
+
+#: include/customizer/customizer-admin.php:526
+#: include/customizer/customizer-admin.php:527
+msgid "Sales Report"
+msgstr "דוח מכירות"
+
+#: include/customizer/customizer-admin.php:636
+msgid "Sales Report for {site_title}"
+msgstr "דוח מכירות עבור {site_title}"
+
+#: include/customizer/customizer-admin.php:149
+msgid "Save"
+msgstr "לְהַצִיל"
+
+#: include/customizer/customizer-admin.php:594
+msgid "Select a date range"
+msgstr "בחר טווח תאריכים"
+
+#: include/customizer/customizer-admin.php:155
+msgid "Send"
+msgstr "לִשְׁלוֹחַ"
+
+#: include/customizer/customizer-admin.php:153
+msgid "Send a test email"
+msgstr "שלח מייל לבדיקה"
+
+#: include/customizer/customizer-admin.php:607
+msgid "Send Report At"
+msgstr "שלח דיווח ב"
+
+#: include/customizer/customizer-admin.php:152
+msgid "Send Test Email"
+msgstr "שלח אימייל לבדיקה"
+
+#: include/customizer/customizer-admin.php:156
+msgid "Settings Successfully Saved."
+msgstr "ההגדרות נשמרו בהצלחה."
+
+#: include/preview/email-report-content.php:613
+msgid "Shipping"
+msgstr "מִשׁלוֹחַ"
+
+#: include/preview/email-report-content.php:608
+msgid "Shipping Tax"
+msgstr "מס משלוח"
+
+#: include/preview/email-report-content.php:658
+#: include/customizer/customizer-admin.php:981
+msgid "Signup Revenue"
+msgstr "הכנסות מההרשמה"
+
+#: include/asre-data-functions.php:703 include/asre-data-functions.php:769
+msgid "State"
+msgstr "מְדִינָה"
+
+#: include/customizer/customizer-admin.php:1233
+#: include/customizer/customizer-admin.php:1250
+msgid "State, orders count, total amount during the report period."
+msgstr "מצב, ספירת הזמנות, סכום כולל במהלך תקופת הדוח."
+
+#: include/preview/email-report-content.php:686
+msgid "Subscription Cancellation"
+msgstr "ביטול מנוי"
+
+#: include/customizer/customizer-admin.php:1072
+msgid "Subscription Cancellations"
+msgstr "ביטולי מנוי"
+
+#: include/preview/email-report-content.php:662
+msgid "Subscription Renewal"
+msgstr "חידוש מנוי"
+
+#: include/preview/email-report-content.php:678
+msgid "Subscription Resubscribe"
+msgstr "מנוי הירשם מחדש"
+
+#: include/preview/email-report-content.php:670
+msgid "Subscription Switch"
+msgstr "מתג מנוי"
+
+#: include/customizer/customizer-admin.php:1342
+msgid "Subscriptions By Status (Total)"
+msgstr "מנויים לפי סטטוס (סה\"כ)"
+
+#: include/preview/email-report-content.php:654
+msgid "Subscriptions signups"
+msgstr "הרשמות למנויים"
+
+#: include/customizer/customizer-admin.php:754
+msgid "sum of all orders including shipping & taxes with refunds taken off."
+msgstr "סכום כל ההזמנות כולל משלוח ומיסים עם הורדת החזרים."
+
+#: include/customizer/customizer-admin.php:728
+#: include/customizer/customizer-admin.php:741
+msgid ""
+"sum of all orders not including shipping & taxes with refunds taken off."
+msgstr "סכום כל ההזמנות לא כולל משלוח ומיסים עם הורדת החזרים."
+
+#: include/customizer/customizer-admin.php:858
+msgid "sum of all orders, with refunds, shipping & taxes taken off."
+msgstr "סכום כל ההזמנות, עם החזרים, משלוח ומסים שהורדו."
+
+#: include/preview/email-report-content.php:674
+#: include/customizer/customizer-admin.php:1033
+msgid "Switch Revenue"
+msgstr "החלף הכנסה"
+
+#: include/preview/email-report-content.php:605
+msgid "Taxes"
+msgstr "מיסים"
+
+#: include/customizer/customizer-admin.php:564
+msgid "the day on the month to send the report email."
+msgstr "היום בחודש לשליחת דוא\"ל הדוח."
+
+#: include/customizer/customizer-admin.php:1092
+msgid "The net subscription gain during the report period."
+msgstr "רווח המנוי נטו במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:582
+msgid "to"
+msgstr "ל"
+
+#: include/asre-data-functions.php:367
+#: include/customizer/customizer-admin.php:1154
+msgid "Top Selling Categories"
+msgstr "קטגוריות הנמכרות ביותר"
+
+#: include/asre-data-functions.php:307
+msgid "Top Selling Product Variations"
+msgstr "וריאציות המוצר הנמכרות ביותר"
+
+#: include/asre-data-functions.php:253
+#: include/customizer/customizer-admin.php:1120
+msgid "Top Selling Products"
+msgstr "המוצרים הנמכרים ביותר"
+
+#: include/customizer/customizer-admin.php:1137
+msgid "Top Selling Variations"
+msgstr "וריאציות הנמכרות ביותר"
+
+#: include/asre-admin.php:1089
+msgid "total active subscribers"
+msgstr "סך המנויים הפעילים"
+
+#: include/customizer/customizer-admin.php:910
+msgid "Total count of downloaded files during the report period."
+msgstr "ספירה כוללת של קבצים שהורדו במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:871
+msgid "Total count of orders in status Processing/Complete."
+msgstr "ספירה כוללת של הזמנות בסטטוס עיבוד/השלמה."
+
+#: include/customizer/customizer-admin.php:780
+msgid "Total discounts orders with coupons."
+msgstr "סה\"כ הזמנות הנחות עם קופונים."
+
+#: include/customizer/customizer-admin.php:767
+msgid "Total discounts with coupons."
+msgstr "סה\"כ הנחות עם קופונים."
+
+#: include/customizer/customizer-admin.php:884
+msgid "Total items sold during the report period."
+msgstr "סך הפריטים שנמכרו בתקופת הדוח."
+
+#: include/customizer/customizer-admin.php:962
+msgid "Total number of active subscriptions during the report period."
+msgstr "המספר הכולל של מנויים פעילים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:897
+msgid "Total number of new signups during the report period."
+msgstr "המספר הכולל של הרשמות חדשות במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1079
+msgid "Total number of subscriptions cancellations during the report period."
+msgstr "המספר הכולל של ביטולי מנויים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1001
+msgid "Total number of subscriptions renewal during the report period."
+msgstr "המספר הכולל של חידוש המנויים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1053
+msgid "Total number of subscriptions resubscribe during the report period."
+msgstr "המספר הכולל של מנויים שנרשמו מחדש במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:975
+msgid "Total number of subscriptions signups during the report period."
+msgstr "המספר הכולל של הרשמות למנויים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1027
+msgid "Total number of subscriptions switch during the report period."
+msgstr "המספר הכולל של מנויים עובר במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:1108
+msgid "Total Refund"
+msgstr "סך החזר"
+
+#: include/customizer/customizer-admin.php:793
+#: include/customizer/customizer-admin.php:806
+msgid "Total Refunds during the report period."
+msgstr "סך החזרים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1014
+msgid "Total renewal revenue during the report period."
+msgstr "סך ההכנסות מחידוש בתקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1066
+msgid "Total resubscribe revenue during the report period."
+msgstr "סך כל הכנסות מנוי מחדש במהלך תקופת הדוח."
+
+#: include/asre-data-functions.php:1024 include/asre-data-functions.php:1206
+#: include/preview/email-report-content.php:583
+#: include/customizer/customizer-admin.php:747
+msgid "Total Sales"
+msgstr "סך המכירות"
+
+#: include/customizer/customizer-admin.php:832
+msgid "Total shipping charges during the report period."
+msgstr "סך כל דמי המשלוח במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:845
+msgid "Total shipping tax charges during the report period."
+msgstr "סך חיובי מס המשלוח במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:988
+msgid "Total signup revenue during the report period."
+msgstr "סך ההכנסות מההרשמה במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:1040
+msgid "Total switch revenue during the report period."
+msgstr "סך ההכנסות מהמתגים במהלך תקופת הדוח."
+
+#: include/customizer/customizer-admin.php:819
+msgid "Total tax(Order Tax + Shipping Tax) charges during the report period."
+msgstr "סך חיובי המס (מס הזמנה + מס משלוח) במהלך תקופת הדוח."
+
+#: include/asre-admin.php:1161
+msgid "Unknown"
+msgstr "לֹא יְדוּעַ"
+
+#: include/asre-admin.php:1123
+msgid "Unknown Title"
+msgstr "כותרת לא ידועה"
+
+#: include/asre-data-functions.php:454
+msgid "Username"
+msgstr "שם משתמש"
+
+#: include/asre-admin.php:1127
+msgid "View all"
+msgstr "הצג הכל"
+
+#: include/customizer/customizer-admin.php:468
+msgid "Weekly"
+msgstr "שְׁבוּעִי"
+
+#: include/customizer/customizer-admin.php:150
+msgid "You are customizing"
+msgstr "אתה עושה התאמה אישית"
